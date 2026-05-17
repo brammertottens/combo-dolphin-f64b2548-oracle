@@ -75,3 +75,6 @@ Welcome to join the Apache DolphinScheduler community by:
 DolphinScheduler enriches the <a href="https://landscape.cncf.io/?landscape=observability-and-analysis&license=apache-license-2-0">CNCF CLOUD NATIVE Landscape.</a >
 
 </p >
+
+## Infrastructure as Code
+Deployment infrastructure is defined as code in the iac/ directory.
